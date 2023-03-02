@@ -75,6 +75,8 @@ This code demonstrates how to use cURL to send a request to the GitHub API and r
 Note that this is just an example, and you will need to customize the code to suit your specific needs.
 
 
+![image](https://user-images.githubusercontent.com/40919489/222575286-431250ee-e1f6-4f10-b659-475d41751726.png)
+![image](https://user-images.githubusercontent.com/40919489/222575407-484f3307-0bf0-4e7d-ae1b-c14a8cc09d6d.png)
 
 
 
